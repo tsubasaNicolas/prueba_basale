@@ -36,7 +36,7 @@
           <a href="bebidas.php">Bebidas</a>
         </li>
         <li>
-          <a href="vodkas">Vodkas</a>
+          <a href="vodkas.php">Vodkas</a>
         </li>
         
       </ul>
