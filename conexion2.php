@@ -1,6 +1,6 @@
 <?php
 
-$conn = mysqli_connect('us-cdbr-east-02.cleardb.com', 'b5dcd93157bee2', '0b557b03', 'heroku_0530bad075bab9f');
+$conn = mysqli_connect('us-cdbr-east-02.cleardb.com', 'bee77fd938afc9',
+ '8c1a4148', 'heroku_7ab1f012f74b503');
 
 ?>
-
