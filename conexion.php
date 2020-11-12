@@ -1,11 +1,11 @@
 <?php
 $servidor = "us-cdbr-east-02.cleardb.com";
-$usuario = "b765542b61830d";
-$password ="8abc6081";
+$usuario = "b5dcd93157bee2";
+$password ="0b557b03";
 
 try {
  
-    $conn = new PDO("mysql:host=$servidor;dbname=heroku_cf559f093d3cdfd", $usuario, $password, 
+    $conn = new PDO("mysql:host=$servidor;dbname=heroku_0530bad075bab9f", $usuario, $password, 
     array(PDO::MYSQL_ATTR_INIT_COMMAND=>"SET NAMES utf8"));
   // set the PDO error mode to exception
   $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
